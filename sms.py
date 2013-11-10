@@ -14,7 +14,7 @@ except KeyError:
     sys.exit()
 
 # the recipient
-RECIPIENT = '+447837680132'
+RECIPIENT = '+447834538884'
 
 # make the client and send the sms
 client = TwilioRestClient(account, token)
