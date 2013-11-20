@@ -16,7 +16,7 @@ your shell is exporting the following variables
 * `TWILIO_TOKEN`: your Twilio token
 
 
-Enjoy
+Enjoy,
 
 
 Jamie
